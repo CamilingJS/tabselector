@@ -19,3 +19,14 @@
 .content {
   padding: 10px; 
 }
+
+.content-body {
+  display: none; 
+}
+.show-active {
+  display: block; 
+}
+.tab-active {
+  background-color: darkgrey;
+
+}
